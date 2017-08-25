@@ -23,3 +23,4 @@ def longest_common_prefix(strs)
   # If we make it here, entire shortest word is the common prefix.
   result
 end
+x
